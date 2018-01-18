@@ -5,12 +5,20 @@ https://www.youtube.com/watch?v=mD3vmgksvz8, thanks!
 
 C:\Liu\TechTemp\jwt-spring-security-demo-master
 
+
+
 -->
-user/passowrd
+-- Run/Debug, JwtDemoApplication
+-- go to localhost:8080, should see login page. If not (see 401), then need to clear local storage in Chrome.
+-- 
+-->
+user/password
 admin/admin
 
 
 
+
+-------------------------------------------------
 
 --> pom.xml: try findbug, jcoco and spotify ???
 
